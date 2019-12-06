@@ -1,0 +1,11 @@
+export { AreaCollection } from './AreaCollection'
+export { BarCollection } from './BarCollection'
+export { LineCollection } from './LineCollection'
+export { PieCollection } from './PieCollection'
+export { RadarCollection } from './RadarCollection'
+export { RadialBarCollection } from './RadialBarCollection'
+export { ReferenceAreaCollection } from './ReferenceAreaCollection'
+export { ReferenceDotCollection } from './ReferenceDotCollection'
+export { ReferenceLineCollection } from './ReferenceLineCollection'
+export { ScatterCollection } from './ScatterCollection'
+
